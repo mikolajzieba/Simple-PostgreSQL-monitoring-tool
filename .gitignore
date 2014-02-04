@@ -3,3 +3,4 @@ assets/
 protected/config/main.php
 protected/data/unityplayer.db
 protected/runtime/
+nbproject/
